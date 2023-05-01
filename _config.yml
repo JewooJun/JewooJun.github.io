@@ -1,10 +1,8 @@
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
+title: OSS lab09
+author: JewooJun
+email: junfa0118@handong.ac.kr
 description: > # this means to ignore newlines until "show_exerpts:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Welcome to JewooJun's page. Jewoo Jun is currently a B.S. student in CSEE at Handong Global University. From 2022, he is a student researcher at DL-LAB of Handong Global University, working under the supervision of Prof. Injung Kim. His research interests include speech synthesis and singing voice synthesis.
 show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
@@ -12,13 +10,13 @@ show_excerpts: true # set to true to show excerpts on the homepage
 sass:
   sass_dir: _sass
 plainwhite:
-  name: Adam Denisov
-  tagline: Developer. Designer
+  name: JewooJun
+  tagline: AI Engineer
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
   search: true # set to true to enable searchbar
   dark_mode: true # set to true to add dark mode toggle
-  portfolio_image: "assets/portfolio.png" # the path from the base directory of the site to the image to display (no / at the start)
+  portfolio_image: "assets/profile.jpg" # the path from the base directory of the site to the image to display (no / at the start)
   html_lang: "en" # set the lang attribute of the <html> tag for the pages. See here for a list of codes: https://www.w3schools.com/tags/ref_country_codes.asp
   condensed_mobile:
     #- home
@@ -26,8 +24,8 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: samarsault
-    github:  samarsault
+    twitter: https://www.instagram.com/_jjjwoo__jun/
+    github:  https://github.com/JewooJun
     linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll

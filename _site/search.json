@@ -1,15 +1,15 @@
 [
   
     {
-      "title"    : "Integrating razorpay into your webapp",
-      "title-lower"    : "integrating razorpay into your webapp",
+      "title"    : "MuSE-SVS: Multi-Singer Emotional Singing Voice Synthesizer that Controls Emotional Intensity",
+      "title-lower"    : "muse-svs: multi-singer emotional singing voice synthesizer that controls emotional intensity",
       "sub-titile" : "",
       "sub-titile-lower" : "",
-      "categories" : "JavascriptNodeJS",
+      "categories" : "DLSVS",
       "tags"     : "",
-      "url"      : "/javascript/nodejs/2019/03/24/welcome-to-jekyll.html",
-      "date"     : "2019-03-24 00:33:36 +0900",
-      "content"     : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ..."
+      "url"      : "/dl/svs/2023/03/21/welcome-to-jekyll.html",
+      "date"     : "2023-03-21 00:33:36 +0900",
+      "content"     : "We propose a multi-singer emotional singing voice synthesizer, Muse-SVS, that expresses emotion at various in- tensity levels by controlling subtle changes in pitch, energy, and phoneme duration wh..."
     } 
   
 ]
