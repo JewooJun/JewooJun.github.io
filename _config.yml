@@ -1,5 +1,12 @@
 remote_theme: samarsault/plainwhite-jekyll
 
+# Build settings
+theme: plainwhite
+
+plugins:
+  - jekyll-seo-tag
+#  - jekyll-feed
+
 title: OSS lab09
 author: JewooJun
 email: junfa0118@handong.ac.kr
@@ -9,8 +16,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
-sass:
-  sass_dir: _sass
+# sass:
+#   sass_dir: _sass
 plainwhite:
   name: JewooJun
   tagline: AI Engineer
@@ -51,10 +58,3 @@ plainwhite:
 # this and add the path to the pages in order as they should show up
 #header_pages:
 # - about.md
-
-# Build settings
-theme: plainwhite
-
-plugins:
-  - jekyll-seo-tag
-#  - jekyll-feed
