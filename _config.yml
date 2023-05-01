@@ -1,3 +1,5 @@
+remote_theme: samarsault/plainwhite-jekyll
+
 title: OSS lab09
 author: JewooJun
 email: junfa0118@handong.ac.kr
@@ -24,12 +26,12 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: https://www.instagram.com/_jjjwoo__jun/
+    # twitter: 
     github:  https://github.com/JewooJun
-    linkedIn: in/samarsault
+    # linkedIn: in/samarsault
     #dribbble: jekyll
     #flickr:   jekyll
-    #instagram: jekyll
+    instagram: https://www.instagram.com/_jjjwoo__jun/
     #pinterest: jekyll
     #youtube: jekyll
     #facebook: jekyll
